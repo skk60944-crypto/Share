@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">FlashShare</string>
+    <string name="onboarding_badge">100% ऑफ़लाइन • विज्ञापन मुक्त</string>
+    <string name="onboarding_title">0 डेटा खपत</string>
+    <string name="onboarding_subtitle">बिना इंटरनेट और बिना क्लाउड ट्रैकिंग के ऐप्स, फ़ाइलें और पूरा फ़ोन डेटा तेज़ी से ऑफ़लाइन ट्रांसफ़र करें।</string>
+    <string name="agree_and_continue">सहमत हों और आगे बढ़ें</string>
+    <string name="permissions_disclosure_title">पारदर्शी अनुमतियाँ</string>
+    <string name="permissions_disclosure_desc">FlashShare 100% ऑफ़लाइन काम करता है। पूरा शेयरिंग अनुभव पाने के लिए नीचे अनुमतियाँ दें:</string>
+    <string name="grant_all_continue">अनुमति दें और प्रवेश करें</string>
+    <string name="skip_for_now">सीमित एक्सेस के साथ जारी रखें</string>
+
+    <string name="tab_history">इतिहास</string>
+    <string name="tab_download">डाउनलोड</string>
+    <string name="tab_app">ऐप्स</string>
+    <string name="tab_photo">फ़ोटो</string>
+    <string name="tab_music">संगीत</string>
+    <string name="tab_video">वीडियो</string>
+    <string name="tab_file">फ़ाइलें</string>
+
+    <string name="menu_connect_pc">PC से कनेक्ट करें</string>
+    <string name="menu_connect_kaios">KaiOS / ब्राउज़र से कनेक्ट करें</string>
+    <string name="menu_connect_android">Android से कनेक्ट करें</string>
+    <string name="menu_share_app">यह ऐप शेयर करें</string>
+    <string name="menu_phone_copy">फ़ोन कॉपी</string>
+
+    <string name="drawer_subtitle">ऑफ़लाइन हाई-स्पीड ट्रांसफ़र</string>
+    <string name="drawer_language">भाषा</string>
+    <string name="drawer_high_speed">हाई-स्पीड मोड (5GHz)</string>
+    <string name="drawer_high_speed_desc">5GHz Wi-Fi Direct / हॉटस्पॉट को प्राथमिकता दें</string>
+    <string name="drawer_storage_path">डाउनलोड स्टोरेज पाथ</string>
+    <string name="drawer_night_mode">नाइट मोड</string>
+    <string name="drawer_about">FlashShare के बारे में</string>
+    <string name="drawer_about_desc">v1.0 • 100% ऑफ़लाइन • शून्य ट्रैकिंग • विज्ञापन-मुक्त</string>
+
+    <string name="nav_history">इतिहास</string>
+    <string name="nav_tools">टूल्स</string>
+    <string name="nav_transfer">ट्रांसफ़र</string>
+    <string name="nav_phone_copy">फ़ोन कॉपी</string>
+    <string name="nav_settings">सेटिंग्स</string>
+    <string name="action_send">भेजें</string>
+    <string name="action_receive">प्राप्त करें</string>
+    <string name="search_local_files">लोकल फ़ाइलें खोजें</string>
+    <string name="cancel">रद्द करें</string>
+    <string name="stop">रोकें</string>
+    <string name="next">आगे बढ़ें</string>
+    <string name="received">प्राप्त</string>
+    <string name="sent">भेजे गए</string>
+    <string name="local_apps">लोकल</string>
+    <string name="system_apps">सिस्टम</string>
+
+    <string name="preparations_title">तैयारी</string>
+    <string name="prep_open_wifi">WLAN / Wi-Fi चालू करें</string>
+    <string name="prep_turn_off_bt">Bluetooth बंद करें</string>
+    <string name="prep_location_perm">लोकेशन अनुमति दें</string>
+    <string name="prep_nearby_perm">नियरबाय Wi-Fi डिवाइस अनुमति दें</string>
+    <string name="prep_info_banner">लोकल ऑफ़लाइन हॉटस्पॉट या Wi-Fi Direct बनाने के लिए Android को WLAN और लोकेशन अनुमति आवश्यक होती है।</string>
+    <string name="connect_title">कनेक्ट करें</string>
+    <string name="waiting_for_receiver">रिसीवर की प्रतीक्षा हो रही है...</string>
+    <string name="stop_sending_title">भेजना बंद करें?</string>
+    <string name="stop_sending_message">बंद करने पर लोकल हॉटस्पॉट और सक्रिय ट्रांसफ़र समाप्त हो जाएगा।</string>
+    <string name="minimize_banner">मिनिमाइज़</string>
+    <string name="scan_qr_title">कनेक्ट करने के लिए QR कोड स्कैन करें</string>
+    <string name="supports_5ghz">5GHz हाई-स्पीड मोड समर्थित है</string>
+    <string name="only_24ghz">केवल 2.4GHz मोड समर्थित</string>
+
+    <string name="phone_storage">फ़ोन स्टोरेज</string>
+    <string name="bucket_documents">दस्तावेज़</string>
+    <string name="bucket_ebooks">ई-बुक्स</string>
+    <string name="bucket_apks">APK</string>
+    <string name="bucket_archives">आर्काइव</string>
+    <string name="bucket_big_files">बड़ी फ़ाइलें</string>
+
+    <string name="phone_copy_old">पुराना फ़ोन</string>
+    <string name="phone_copy_new">नया फ़ोन</string>
+    <string name="phone_copy_subtitle">ऐप्स, मीडिया, संपर्क, कॉल लॉग और SMS पूरी तरह ऑफ़लाइन माइग्रेट करें।</string>
+
+    <string name="tools_video_to_mp3">वीडियो से ऑडियो एक्सट्रैक्टर</string>
+    <string name="extract_audio">ऑडियो निकालें</string>
+</resources>

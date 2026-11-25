@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">FlashShare</string>
+    <string name="onboarding_badge">100% OFFLINE • ZERO ADS</string>
+    <string name="onboarding_title">0 Data Consume</string>
+    <string name="onboarding_subtitle">Transfer apps, files, and full phone data offline at blazing local Wi-Fi speed with zero cloud tracking.</string>
+    <string name="agree_and_continue">Agree and Continue</string>
+    <string name="permissions_disclosure_title">Transparent Permissions</string>
+    <string name="permissions_disclosure_desc">FlashShare works 100% offline. Nothing ever leaves your local Wi-Fi link. Grant permissions below to unlock full sharing:</string>
+    <string name="grant_all_continue">Grant &amp; Enter FlashShare</string>
+    <string name="skip_for_now">Continue with Limited Access</string>
+
+    <!-- Tabs -->
+    <string name="tab_history">HISTORY</string>
+    <string name="tab_download">DOWNLOAD</string>
+    <string name="tab_app">APP</string>
+    <string name="tab_photo">PHOTO</string>
+    <string name="tab_music">MUSIC</string>
+    <string name="tab_video">VIDEO</string>
+    <string name="tab_file">FILE</string>
+
+    <!-- Top Menu -->
+    <string name="menu_connect_pc">Connect to PC</string>
+    <string name="menu_connect_kaios">Connect to KaiOS / Browser</string>
+    <string name="menu_connect_android">Connect to Android</string>
+    <string name="menu_share_app">Share This App</string>
+    <string name="menu_phone_copy">Phone Copy</string>
+
+    <!-- Drawer -->
+    <string name="drawer_subtitle">Offline High-Speed Transfer</string>
+    <string name="drawer_language">Language</string>
+    <string name="drawer_high_speed">High-Speed Mode (5GHz)</string>
+    <string name="drawer_high_speed_desc">Prefer 5GHz Wi-Fi Direct / Hotspot</string>
+    <string name="drawer_storage_path">Storage Download Path</string>
+    <string name="drawer_night_mode">Night Mode</string>
+    <string name="drawer_about">About FlashShare</string>
+    <string name="drawer_about_desc">v1.0 • 100% Offline • Zero Telemetry • Ad-Free</string>
+
+    <!-- Bottom Nav & Actions -->
+    <string name="nav_history">History</string>
+    <string name="nav_tools">Tools</string>
+    <string name="nav_transfer">Transfer</string>
+    <string name="nav_phone_copy">Phone Copy</string>
+    <string name="nav_settings">Me</string>
+    <string name="action_send">SEND</string>
+    <string name="action_receive">RECEIVE</string>
+    <string name="search_local_files">Search Local Files</string>
+    <string name="cancel">Cancel</string>
+    <string name="stop">Stop</string>
+    <string name="next">NEXT</string>
+    <string name="received">Received</string>
+    <string name="sent">Sent</string>
+    <string name="local_apps">Local</string>
+    <string name="system_apps">System</string>
+
+    <!-- Preparations & Connect -->
+    <string name="preparations_title">Preparations</string>
+    <string name="prep_open_wifi">Open WLAN / Wi-Fi</string>
+    <string name="prep_turn_off_bt">Turn off Bluetooth</string>
+    <string name="prep_location_perm">Grant Location Permission</string>
+    <string name="prep_nearby_perm">Grant Nearby Wi-Fi Devices Permission</string>
+    <string name="prep_info_banner">Android requires WLAN and Location permissions to create a local offline Hotspot or Wi-Fi Direct channel. FlashShare never tracks or transmits your location.</string>
+    <string name="connect_title">Connect</string>
+    <string name="waiting_for_receiver">Waiting for receiver...</string>
+    <string name="stop_sending_title">Stop sending?</string>
+    <string name="stop_sending_message">Stopping will close the local hotspot and cancel the active transfer session.</string>
+    <string name="minimize_banner">Minimize</string>
+    <string name="scan_qr_title">Scan QR code to connect</string>
+    <string name="supports_5ghz">5GHz High-speed Mode Supported</string>
+    <string name="only_24ghz">2.4GHz Mode Only (5GHz unsupported on hardware)</string>
+
+    <!-- File Manager Buckets -->
+    <string name="phone_storage">Phone Storage</string>
+    <string name="bucket_documents">Documents</string>
+    <string name="bucket_ebooks">Ebooks</string>
+    <string name="bucket_apks">APKs</string>
+    <string name="bucket_archives">Archives</string>
+    <string name="bucket_big_files">Big Files</string>
+
+    <!-- Phone Copy -->
+    <string name="phone_copy_old">Old Phone</string>
+    <string name="phone_copy_new">New Phone</string>
+    <string name="phone_copy_subtitle">Migrate Apps, Media, Documents, Contacts, Call Logs &amp; SMS completely offline.</string>
+
+    <!-- Tools -->
+    <string name="tools_video_to_mp3">Video to Audio Extractor</string>
+    <string name="extract_audio">Extract Audio</string>
+</resources>

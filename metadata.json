@@ -1,0 +1,6 @@
+{
+  "name": "FlashShare",
+  "description": "100% offline, ad-free high-speed Android file, app, and full phone data sharing suite over Wi-Fi Direct, Local Hotspot, and embedded PC/KaiOS web portals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
